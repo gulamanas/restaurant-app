@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faUserCircle } from "@fortawesome/free-solid-svg-icons";
-import "./Navbar.css"; // Import CSS for styling
+import "./NavBar.css";
 import { Outlet } from "react-router-dom";
 
 const Navbar = ({ }) => {
